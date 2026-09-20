@@ -10,13 +10,13 @@ Welcome to the official GitHub organization for Group 5. This space hosts our co
 
 We are a multidisciplinary group of professionals dedicated to integrating AI into the construction lifecycle.
 
-| Name | Primary Specialization | Key Contributions |
-|---|---|---|
-| Mark Shane Haines | Project Lead / Integration | Repo Owner, Integration Lead, SARIMA & YOLO Logic |
-| Letícia Cristovam Clemente | Computational Design / Data | Floor & Level Logic, Prophet Forecasting, Dataset Annotation |
-| Malak Yaseen | Structural / Statistics | Column Grid Generation, ACF/PACF Analysis, Model Training |
-| Marc Azzam | BIM / Visualisation | Façade Design, Seasonality Analysis, Error Evidence |
-| Osama Ata | Governance / BIM Strategy | Rhino.Inside Revit Output, Data Preprocessing, Presentation |
+| Name |
+|---|
+| Mark Shane Haines|
+| Letícia Cristovam Clemente |
+| Malak Yaseen |
+| Marc Azzam |
+| Osama Ata |
 
 ---
 
@@ -65,12 +65,6 @@ End-to-end analysis and forecasting of 16 years of hourly energy consumption dat
 ## 🎓 About the Program
 
 MAICEN-1125 is the Master's program in **Artificial Intelligence for Architecture and Construction** at the Zigurat Global Institute of Technology. Our group (Group 5) focuses on *"AI for Project Optimisation, Innovation, and Ethics."*
-
----
-
-## 📄 License
-
-All repositories within this organization are released under the **MIT License** unless otherwise specified in the individual repository.
 
 ---
 
